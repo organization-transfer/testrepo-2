@@ -2,3 +2,4 @@ build:
     tests:
         override:
             - echo "check"
+            - echo "check again"
